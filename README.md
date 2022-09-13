@@ -3,8 +3,7 @@
 
 <p align="center">
     <br>
-  <a href="https://discord.com/users/273518819568254986" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/273518819568254986?bg=151515&borderRadius=5px" alt="Discord Status"/>
+  <a href="https://discord.com/users/273518819568254986" target="_blank"> <img width="35%" src="https://lanyard-profile-readme-nyria.vercel.app/api/273518819568254986?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
 
 <div align="center">
@@ -28,7 +27,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=1Darkbr&color=green" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=1Darkbr&color=ba60ff&" alt="Profile views" />
 </div>
 
 </div>
